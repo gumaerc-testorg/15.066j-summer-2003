@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/5d6bea6f86fd3a370f7ce977e0d07a55_group3_writeup.pdf
+file: /media/courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/5d6bea6f86fd3a370f7ce977e0d07a55_group3_writeup.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: group3_writeup.pdf
 uid: 5d6bea6f-86fd-3a37-0f7c-e977e0d07a55
