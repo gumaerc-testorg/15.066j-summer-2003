@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: b32adfc9-5c85-9ce1-d213-f2a525554084
 resourcetype: Document
 title: midterm_exam_soln.pdf
 uid: 42cbef20-f0ca-8d99-7eb0-2d2f297320e0

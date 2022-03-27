@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0439ec05-fe37-6e9e-7a8d-6c6d53e5c840
 resourcetype: Other
 title: group1_spreadsheet.xls
 uid: 00f0dc57-3e44-a415-e440-c34bad26f343

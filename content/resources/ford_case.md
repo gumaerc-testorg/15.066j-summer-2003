@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a475a835-2b88-c8a9-eb80-ed3d5213bdd4
 resourcetype: Document
 title: ford_case.pdf
 uid: c2c70ba4-4dcc-0f94-50c5-1f49695200f8

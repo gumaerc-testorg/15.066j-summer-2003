@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0245c9eb-9868-8276-516b-fdf64623a690
 resourcetype: Document
 title: book_report.pdf
 uid: 694a327b-30f9-411e-84ec-2b902ce27e95

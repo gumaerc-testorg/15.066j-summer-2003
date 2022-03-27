@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 22c87243-e00c-38f9-135a-54434bb5ca86
 resourcetype: Document
 title: ses15_monte_carlo.pdf
 uid: 7360a733-24a4-672d-0e80-50537c663fdb

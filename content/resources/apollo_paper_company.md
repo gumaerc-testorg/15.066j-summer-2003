@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a475a835-2b88-c8a9-eb80-ed3d5213bdd4
 resourcetype: Document
 title: apollo_paper_company.pdf
 uid: 33c9a55a-a07b-114a-5eac-3a8c0e8d3267

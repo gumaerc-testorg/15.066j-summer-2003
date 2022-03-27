@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a475a835-2b88-c8a9-eb80-ed3d5213bdd4
 resourcetype: Document
 title: polariod_paper.pdf
 uid: 151da067-87ca-68e3-7be6-a1b16a7a445b

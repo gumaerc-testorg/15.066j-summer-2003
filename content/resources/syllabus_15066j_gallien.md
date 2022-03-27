@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: b91650b6-c23e-65c3-d3d2-1d080801c811
 resourcetype: Document
 title: syllabus_15066j_gallien.pdf
 uid: 26754964-974b-f39e-fb00-6465b7c38162

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 22c87243-e00c-38f9-135a-54434bb5ca86
 resourcetype: Document
 title: ses16_ontario.pdf
 uid: 9d05a913-36cb-7cc6-0500-91355bb7f4d1

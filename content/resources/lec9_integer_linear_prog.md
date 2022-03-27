@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 22c87243-e00c-38f9-135a-54434bb5ca86
 resourcetype: Document
 title: lec9_integer_linear_prog.pdf
 uid: fb8539fd-7971-923e-21b2-a034fb1a104e

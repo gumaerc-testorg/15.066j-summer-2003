@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a475a835-2b88-c8a9-eb80-ed3d5213bdd4
 resourcetype: Document
 title: genome_case.pdf
 uid: 039f04f9-3a1a-8d07-dad1-ad3ed5b104ca

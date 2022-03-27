@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0245c9eb-9868-8276-516b-fdf64623a690
 resourcetype: Document
 title: grouppset2.pdf
 uid: 89b52f80-f65e-828b-554a-ebf8b8462df4

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 22c87243-e00c-38f9-135a-54434bb5ca86
 resourcetype: Document
 title: lec20_experiment_design.pdf
 uid: f0362a1f-c0ff-8248-84a3-211090ce14a0

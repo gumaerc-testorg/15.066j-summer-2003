@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0439ec05-fe37-6e9e-7a8d-6c6d53e5c840
 resourcetype: Document
 title: group3_writeup.pdf
 uid: 5d6bea6f-86fd-3a37-0f7c-e977e0d07a55

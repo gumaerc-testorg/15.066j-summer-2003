@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: b91650b6-c23e-65c3-d3d2-1d080801c811
 resourcetype: Document
 title: syllabus_15066j_graves.pdf
 uid: a1542b42-275b-90fa-c37c-6d21f874e0bc
