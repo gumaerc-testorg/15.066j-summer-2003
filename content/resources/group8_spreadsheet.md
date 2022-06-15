@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/f9967642e8c1a0d6c29f2a4774f894c5_group8_spreadsheet.xls
+file: /courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/f9967642e8c1a0d6c29f2a4774f894c5_group8_spreadsheet.xls
 file_type: application/msword
 learning_resource_types:
 - Projects

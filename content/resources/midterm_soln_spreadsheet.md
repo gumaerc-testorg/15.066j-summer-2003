@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/c2e585fb1e4c8ce288f6ba827d72f50e_midterm_soln_spreadsheet.xls
+file: /courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/c2e585fb1e4c8ce288f6ba827d72f50e_midterm_soln_spreadsheet.xls
 file_type: application/msword
 learning_resource_types:
 - Exams

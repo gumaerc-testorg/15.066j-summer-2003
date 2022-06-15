@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/a4744f4aa4e11f43bf111aa152d5a6cd_lec26_course_summary.pdf
+file: /courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/a4744f4aa4e11f43bf111aa152d5a6cd_lec26_course_summary.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

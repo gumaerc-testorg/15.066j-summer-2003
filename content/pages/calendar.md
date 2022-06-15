@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -198,7 +199,7 @@ Tutorial
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Debriefing of Inventory Simulation (with [15.761](/courses/15-761-introduction-to-operations-management-spring-2013/))
+Debriefing of Inventory Simulation (with [15.761](/courses/15-761-introduction-to-operations-management-spring-2013))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -306,7 +307,7 @@ Discrete-Event Framework and Examples (with SIMUL8®)
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Theory of Constraints (Joint Session with [15.761](/courses/15-761-introduction-to-operations-management-spring-2013/))
+Theory of Constraints (Joint Session with [15.761](/courses/15-761-introduction-to-operations-management-spring-2013))
 {{< tdclose >}}
 
 {{< trclose >}}

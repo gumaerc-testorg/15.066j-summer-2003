@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/694a327b30f9411e84ec2b902ce27e95_book_report.pdf
+file: /courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/694a327b30f9411e84ec2b902ce27e95_book_report.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
