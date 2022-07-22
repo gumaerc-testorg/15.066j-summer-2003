@@ -1,13 +1,16 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: b91650b6-c23e-65c3-d3d2-1d080801c811
 ---
 
 A complete syllabus is presented below in text format. Syllabi for the portions of the course taught by Prof. Stephen Graves or Prof. Jérémie Gallien are available separately in PDF format:
 
-*   General Information about 15.066J and calendar for first portion of class, taught by Prof. Stephen Graves ([PDF]({{< baseurl >}}/resources/syllabus_15066j_graves))
-*   Information and calendar for second portion of class (sessions 19-29), taught by Prof. Jérémie Gallien ([PDF]({{< baseurl >}}/resources/syllabus_15066j_gallien))
+*   General Information about 15.066J and calendar for first portion of class, taught by Prof. Stephen Graves ({{% resource_link a1542b42-275b-90fa-c37c-6d21f874e0bc "PDF" %}})
+*   Information and calendar for second portion of class (sessions 19-29), taught by Prof. Jérémie Gallien ({{% resource_link 26754964-974b-f39e-fb00-6465b7c38162 "PDF" %}})
 
 General Information
 -------------------
@@ -146,7 +149,7 @@ Professor Gallien
 
 However, if for some reason you find yourself stuck or struggling for more than 30 minutes and sources 1-3 do not yield any quick answer/fix, please do escalate to sources 4 and 5 at that point (again, the goal is to learn about simulation, not software interface). In addition, the module will contain in-class introduction/demos to both CB and S8, and I have assigned as a required reading for Class 4 the tutorial "Introduction to SIMUL8®" which I have adapted from some of SIMUL8 Corporation's training material.
 
-This module consists of 7 lectures and 3 tutorials. The [schedule]({{< baseurl >}}/pages/calendar), [list of topics covered]({{< baseurl >}}/pages/calendar), [reading]({{< baseurl >}}/pages/readings) and [homework assignments]({{< baseurl >}}/pages/assignments) are listed elsewhere on this web site.
+This module consists of 7 lectures and 3 tutorials. The {{% resource_link f8c0d4e0-c157-0358-2762-3e7b50631c7f "schedule" %}}, {{% resource_link f8c0d4e0-c157-0358-2762-3e7b50631c7f "list of topics covered" %}}, {{% resource_link a475a835-2b88-c8a9-eb80-ed3d5213bdd4 "reading" %}} and {{% resource_link 0245c9eb-9868-8276-516b-fdf64623a690 "homework assignments" %}} are listed elsewhere on this web site.
 
 All assignments may be prepared as part of your regular study group/team (and not beyond!), but you should individually be able to answer questions in class about every part of the work that has been done by your team. The three homework assignments, Introduction to SIMUL8® document, Ontario Gateway and Human Genome cases will be posted on the class server, and the readings/assignment ClearPictures, Inc. refers to a mini case described later in the present document. The two Probability / Statistics Review Checklists consist of making sure on your own (or as part of your study group) that you are comfortable with a number of concepts covered earlier this summer in 15.064 Engineering Probability and Statistics before walking into class that day. More specifically before the corresponding classes you should have a good understanding of the following concepts:
 

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: a475a835-2b88-c8a9-eb80-ed3d5213bdd4
 ---
@@ -83,7 +87,7 @@ Networks - Introduction
 {{< tdopen >}}
 Baker: 3  
   
-Polaroid Example: _Tactical Shipping and Scheduling at Polaroid with Dual Lead-Times_ ([PDF]({{< baseurl >}}/resources/polariod_paper)) - Paper courtesy of Kermit Threatte and Stephen C. Graves, October, 2001. Used with permission.
+Polaroid Example: _Tactical Shipping and Scheduling at Polaroid with Dual Lead-Times_ ({{% resource_link 151da067-87ca-68e3-7be6-a1b16a7a445b "PDF" %}}) - Paper courtesy of Kermit Threatte and Stephen C. Graves, October, 2001. Used with permission.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -185,7 +189,7 @@ Baker: 8 (Skim)
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Debriefing of Inventory Simulation (with [15.761](/courses/15-761-introduction-to-operations-management-spring-2013/))
+Debriefing of Inventory Simulation (with [15.761](/courses/15-761-introduction-to-operations-management-spring-2013))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -292,7 +296,7 @@ _Introduction to SIMUL8®_ (Adapted for 15.066J from some of SIMUL8 Corporation'
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Theory of Constraints (Joint Session with [15.761](/courses/15-761-introduction-to-operations-management-spring-2013/))
+Theory of Constraints (Joint Session with [15.761](/courses/15-761-introduction-to-operations-management-spring-2013))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -312,7 +316,7 @@ Discrete-Event Case Discussion
 {{< tdopen >}}
 
 
-Discrete-Event Case: _Human Genome Project_ ([PDF]({{< baseurl >}}/resources/genome_case)) - Paper courtesy of Jérémie Gallien and Scott A. Rosenberg, MIT Sloan School of Management, 2003. Used with permission.
+Discrete-Event Case: _Human Genome Project_ ({{% resource_link 039f04f9-3a1a-8d07-dad1-ad3ed5b104ca "PDF" %}}) - Paper courtesy of Jérémie Gallien and Scott A. Rosenberg, MIT Sloan School of Management, 2003. Used with permission.
 
 
 {{< tdclose >}}

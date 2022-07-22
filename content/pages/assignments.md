@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 0245c9eb-9868-8276-516b-fdf64623a690
 ---
 
-Due dates are shown for all of the course assignments, including the preparation of cases, group problem sets, take-home midterm exam, and group projects. A description of the group project, including examples of student work, is available on the [projects]({{< baseurl >}}/pages/projects) page.
+Due dates are shown for all of the course assignments, including the preparation of cases, group problem sets, take-home midterm exam, and group projects. A description of the group project, including examples of student work, is available on the {{% resource_link 0439ec05-fe37-6e9e-7a8d-6c6d53e5c840 "projects" %}} page.
 
 Some assignments refer to the course textbook, which is Baker, Kenneth R., _Optimization: A Spreadsheet-Based Approach_, Duxbury Press, 2003.
 
@@ -128,7 +132,7 @@ Prepare Filatoi Riuniti
 Tutorial
 {{< tdclose >}}
 {{< tdopen >}}
-Group Problem Set 1: LP (Linear Programming) ([PDF]({{< baseurl >}}/resources/grouppset1))
+Group Problem Set 1: LP (Linear Programming) ({{% resource_link dc8057d9-1a81-766e-c911-5a8a2b870c71 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -173,7 +177,7 @@ LP (Linear Programming) - Solution Methods and Sensitivity Analysis
 Tutorial
 {{< tdclose >}}
 {{< tdopen >}}
-Group Problem Set 2: LP (Linear Programming) ([PDF]({{< baseurl >}}/resources/grouppset2))
+Group Problem Set 2: LP (Linear Programming) ({{% resource_link 89b52f80-f65e-828b-554a-ebf8b8462df4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -233,7 +237,7 @@ Prepare TSP Challenge
 Tutorial
 {{< tdclose >}}
 {{< tdopen >}}
-Group Problem Set 3: LP (Linear Programming) & Networks ([PDF]({{< baseurl >}}/resources/grouppset3))
+Group Problem Set 3: LP (Linear Programming) & Networks ({{% resource_link 77e76bdc-8752-bb80-da09-296376cd6e49 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -245,7 +249,7 @@ Group Problem Set 3: LP (Linear Programming) & Networks ([PDF]({{< baseurl >}}/r
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Debriefing of Inventory Simulation (with [15.761](/courses/15-761-introduction-to-operations-management-spring-2013/))
+Debriefing of Inventory Simulation (with [15.761](/courses/15-761-introduction-to-operations-management-spring-2013))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -293,7 +297,7 @@ Optimization in Practice: John Bean, Intel
 Tutorial
 {{< tdclose >}}
 {{< tdopen >}}
-Group Problem Set 4: ILP ([PDF]({{< baseurl >}}/resources/grouppset4))
+Group Problem Set 4: ILP ({{% resource_link f0fabd31-025c-8cc5-4cc5-810a04beee24 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -353,9 +357,9 @@ Probability/Statistics Review 1 Checklist
 Tutorial: Monte-Carlo Modeling and Crystal Ball® Tutorial
 {{< tdclose >}}
 {{< tdopen >}}
-Book Report Due ([PDF]({{< baseurl >}}/resources/book_report))  
+Book Report Due ({{% resource_link 694a327b-30f9-411e-84ec-2b902ce27e95 "PDF" %}})  
   
-Group Problem Set 5 ([PDF]({{< baseurl >}}/resources/grouppset5))
+Group Problem Set 5 ({{% resource_link 2be1e908-83b4-cbf3-9d6d-9afc4ff0a88c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -399,7 +403,7 @@ Question 5 in ClearPictures, Inc.
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Theory of Constraints (Joint Session with [15.761](/courses/15-761-introduction-to-operations-management-spring-2013/))
+Theory of Constraints (Joint Session with [15.761](/courses/15-761-introduction-to-operations-management-spring-2013))
 {{< tdclose >}}
 {{< tdopen >}}
 Group Project Proposal

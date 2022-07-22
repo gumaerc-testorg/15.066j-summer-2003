@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 0439ec05-fe37-6e9e-7a8d-6c6d53e5c840
 ---
@@ -46,11 +50,11 @@ PROJECT FILES
 Labor Planning for a Manufacturing Line - Lane Ballard, Christine Cheung, Justin Ging, Omur Kaya, David Jackson, and Alyson Naughton
 {{< tdclose >}}
 {{< tdopen >}}
-Final Memorandum ([PDF]({{< baseurl >}}/resources/group1_writeup))  
+Final Memorandum ({{% resource_link eb3aa5d4-9d19-3841-c47c-d8b877f4aa64 "PDF" %}})  
   
-Presentation ([PDF]({{< baseurl >}}/resources/group1_presentation))  
+Presentation ({{% resource_link 78d815fe-892b-f4e2-df12-a018a9c81c9d "PDF" %}})  
   
-Spreadsheet of Model ([XLS]({{< baseurl >}}/resources/group1_spreadsheet))
+Spreadsheet of Model ({{% resource_link 00f0dc57-3e44-a415-e440-c34bad26f343 "XLS" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,11 +66,11 @@ Spreadsheet of Model ([XLS]({{< baseurl >}}/resources/group1_spreadsheet))
 Pump System Design: Optimizing Total Cost Over System Life Cycle - Tamara Greenlaw, Christian Caballero, Aaron Raphel, Minja Penttila, and Cliff Smith
 {{< tdclose >}}
 {{< tdopen >}}
-Final Memorandum ([PDF]({{< baseurl >}}/resources/group3_writeup))  
+Final Memorandum ({{% resource_link 5d6bea6f-86fd-3a37-0f7c-e977e0d07a55 "PDF" %}})  
   
-Presentation ([PDF]({{< baseurl >}}/resources/group3_presentation))  
+Presentation ({{% resource_link 575ad8e7-ee4b-a067-324c-1c2e350e0d8b "PDF" %}})  
   
-Spreadsheet of Model ([XLS]({{< baseurl >}}/resources/group3_spreadsheet))
+Spreadsheet of Model ({{% resource_link 4e209fb1-1c7f-45c1-2ae8-a628dd7e3373 "XLS" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,11 +132,11 @@ Student Loan Optimization
 Marina Mooring Optimization - Brian Siefering, Amber Mazooji, Kevin McKenney, Paul Mingardi, Vikram Sahney, and Kazunori Maruyama
 {{< tdclose >}}
 {{< tdopen >}}
-Final Memorandum ([PDF]({{< baseurl >}}/resources/group8_writeup))  
+Final Memorandum ({{% resource_link 60449911-b31e-3626-0781-83457776dc49 "PDF" %}})  
   
-Presentation ([PDF]({{< baseurl >}}/resources/group8_presentation))  
+Presentation ({{% resource_link 17dc80b7-5f89-5bff-e7dd-e44904c9e2bf "PDF" %}})  
   
-Spreadsheet of Model ([XLS]({{< baseurl >}}/resources/group8_spreadsheet))
+Spreadsheet of Model ({{% resource_link f9967642-e8c1-a0d6-c29f-2a4774f894c5 "XLS" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
