@@ -5,6 +5,7 @@ file: /courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection

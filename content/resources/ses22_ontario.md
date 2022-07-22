@@ -5,6 +5,7 @@ file: /courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ses22_ontario.pdf
 uid: c71ea956-9868-f88e-b0a8-fba5c5b3c6e5
 ---
 This file contains the lecture notes for session 22.
-
