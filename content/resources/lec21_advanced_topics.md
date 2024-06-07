@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/407143d4965c8ae08b62c4be766a43db_lec21_advanced_topics.pdf
+file_size: 82584
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

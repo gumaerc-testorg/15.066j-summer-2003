@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/f0362a1fc0ff824884a3211090ce14a0_lec20_experiment_design.pdf
+file_size: 168305
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

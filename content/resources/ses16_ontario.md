@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/9d05a91336cb7cc6050091355bb7f4d1_ses16_ontario.pdf
+file_size: 83966
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

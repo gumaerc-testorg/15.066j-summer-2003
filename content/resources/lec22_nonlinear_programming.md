@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/541c284deb28af82b60827bdc6d48c9b_lec22_nonlinear_programming.pdf
+file_size: 63662
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

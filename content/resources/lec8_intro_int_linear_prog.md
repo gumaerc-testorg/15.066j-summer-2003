@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/9b54e35f887f8e80a384965840727f91_lec8_intro_int_linear_prog.pdf
+file_size: 65302
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
