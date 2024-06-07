@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/5282ed2746cb032c6268bdb5544e7d7e_midterm_exam.pdf
+file_size: 115978
 file_type: application/pdf
 learning_resource_types:
 - Exams

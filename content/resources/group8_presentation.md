@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/17dc80b75f895bffe7dde44904c9e2bf_group8_presentation.pdf
+file_size: 287998
 file_type: application/pdf
 learning_resource_types:
 - Projects

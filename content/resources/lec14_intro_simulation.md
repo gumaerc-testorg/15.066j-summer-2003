@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/ba431b479ab88273034530eaaeabcb91_lec14_intro_simulation.pdf
+file_size: 59710
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

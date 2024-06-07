@@ -89,7 +89,7 @@ User Manual
 Online FAQ no longer available
 {{< tdclose >}}{{< tdopen >}}
 Online Q&A Forum available at   
-{{% resource_link "2f22da87-a77f-4756-b8ff-5905f579229b" "SIMUL8® Cafe" %}}
+[SIMUL8® Cafe](http://www.simul8.com/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
