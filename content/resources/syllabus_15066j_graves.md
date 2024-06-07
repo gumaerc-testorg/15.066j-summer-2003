@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the syllabus for the course.
 file: /courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/a1542b42275b90fac37c6d21f874e0bc_syllabus_15066j_graves.pdf
+file_size: 86302
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
