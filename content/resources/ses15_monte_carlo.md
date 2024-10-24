@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/7360a73324a4672d0e8050537c663fdb_ses15_monte_carlo.pdf
+file: /ol-ocw-studio-app/courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/7360a73324a4672d0e8050537c663fdb_ses15_monte_carlo.pdf
 file_size: 180347
 file_type: application/pdf
 learning_resource_types:
