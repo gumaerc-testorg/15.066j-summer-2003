@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the lecture notes for session 20.
-file: /courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/66d05546a4bf9ba1bcb2b658ed4af42b_ses20_monte_carlo.pdf
+file: /ol-ocw-studio-app/courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/66d05546a4bf9ba1bcb2b658ed4af42b_ses20_monte_carlo.pdf
 file_size: 180342
 file_type: application/pdf
 learning_resource_types:

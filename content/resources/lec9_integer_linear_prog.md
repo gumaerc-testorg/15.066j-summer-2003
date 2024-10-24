@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/fb8539fd7971923e21b2a034fb1a104e_lec9_integer_linear_prog.pdf
+file: /ol-ocw-studio-app/courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/fb8539fd7971923e21b2a034fb1a104e_lec9_integer_linear_prog.pdf
 file_size: 35678
 file_type: application/pdf
 learning_resource_types:
