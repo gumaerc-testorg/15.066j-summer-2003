@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/bce5f286ca1fda6c134c48b89a5ace10_lec15_lagrangean_example.pdf
+file: /courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/bce5f286ca1fda6c134c48b89a5ace10_lec15_lagrangean_example.pdf
 file_size: 162206
 file_type: application/pdf
 learning_resource_types:

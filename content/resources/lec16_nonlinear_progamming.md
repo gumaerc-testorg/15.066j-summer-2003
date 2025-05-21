@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/110116cdb4e572c670878e8d1bc463d8_lec16_nonlinear_progamming.pdf
+file: /courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/110116cdb4e572c670878e8d1bc463d8_lec16_nonlinear_progamming.pdf
 file_size: 49203
 file_type: application/pdf
 learning_resource_types:
