@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/151da06787ca68e37be6a1b16a7a445b_polariod_paper.pdf
+file: /courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/151da06787ca68e37be6a1b16a7a445b_polariod_paper.pdf
 file_size: 80138
 file_type: application/pdf
 learning_resource_types:

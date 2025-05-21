@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/210fd3dda4c92bc361a03bcaa6db72a4_ses3_graves.pdf
+file: /courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/210fd3dda4c92bc361a03bcaa6db72a4_ses3_graves.pdf
 file_size: 122325
 file_type: application/pdf
 learning_resource_types:

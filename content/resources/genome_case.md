@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/039f04f93a1a8d07dad1ad3ed5b104ca_genome_case.pdf
+file: /courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/039f04f93a1a8d07dad1ad3ed5b104ca_genome_case.pdf
 file_size: 296867
 file_type: application/pdf
 learning_resource_types:
