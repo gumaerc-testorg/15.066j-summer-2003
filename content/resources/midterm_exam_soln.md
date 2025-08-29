@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/42cbef20f0ca8d997eb02d2f297320e0_midterm_exam_soln.pdf
+file: /ol-ocw-studio-app/courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/42cbef20f0ca8d997eb02d2f297320e0_midterm_exam_soln.pdf
 file_size: 215994
 file_type: application/pdf
 learning_resource_types:
